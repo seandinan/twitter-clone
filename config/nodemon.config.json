@@ -1,0 +1,9 @@
+{
+  "watch": [ "server" ],
+  "env": {
+    "PORT": 3000,
+    "NODE_ENV": "development",
+    "DEBUG": "express"
+  },
+  "exec": "babel-node"
+}
